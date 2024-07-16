@@ -17,7 +17,8 @@ StartupEvents.registry('item', event =>{
 	event.create('mek_base').displayName('Mek base')
 	event.create('easteregg').displayName('Easter egg')
 	event.create('incomplete_press').texture('kubejs:item/incomplete_basic_control_circuit').maxStackSize(64).displayName('Circuito basico Incompleto')
-	event.create('universal_press').texture('kubejs:item/universal_press').maxStackSize(64).displayName('Universal Press');
+	event.create('universal_press').texture('kubejs:item/universal_press').maxStackSize(64).displayName('Universal Press')
+	event.create('absolute_reaction_plating').texture('kubejs:item/absolute_reaction_plating').maxStackSize(64).displayName('Plate Absolute');
 
 
 
